@@ -20,10 +20,10 @@
     I see it misclassified many images as cat.
 
 #### Graphs:
-    <img width="937" alt="image" src="https://github.com/das91t70/S8/assets/161017685/ad7cac12-f4c1-45be-95bb-ef9c29fd43ac">
+<img width="937" alt="image" src="https://github.com/das91t70/S8/assets/161017685/ad7cac12-f4c1-45be-95bb-ef9c29fd43ac">
 
 #### 10 Misclassified images
-    <img width="1222" alt="image" src="https://github.com/das91t70/S8/assets/161017685/6640a37b-01ba-481f-a1e9-ecc750ec519f">
+<img width="1222" alt="image" src="https://github.com/das91t70/S8/assets/161017685/6640a37b-01ba-481f-a1e9-ecc750ec519f">
 
 
 
